@@ -1,5 +1,5 @@
 # CryptoHoldersClub
-# https://tea.xyz/what-is-this-file
+# Crypto Holders Club crypto project created by enthusiasts and aimed at educating and helping beginners.
 ---
 version: 1.0.0
 codeOwners:
